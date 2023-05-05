@@ -11,6 +11,7 @@ const Header = ({ }) => {
         <Link href="/about">About us</Link>
         <Link href="/about/team">Our Team</Link>
         <Link href="/code/repos">Code</Link>
+        <Link href="/testAPI">Test API route</Link>
       </div>
     </div>
   </header>);
